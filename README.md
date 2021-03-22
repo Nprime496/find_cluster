@@ -1,6 +1,6 @@
  # find_cluster
 Machine learning technics to find clusters from datas
-
+Applying K-means algorithm to find clusters in data.
 
 
 # ***KMean clustering algorithm:***
